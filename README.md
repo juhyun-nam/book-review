@@ -31,6 +31,46 @@
 * W. Stevens, Richard, A. Rago, Stephen / 류광 역
 * Unix
 
+## 모두를 위한 리눅스 프로그래밍
+* 아오키 미네로 / 이동규 역
+* Linux
+
+## 디버깅을 통해 배우는 리눅스 커널의 구조와 원리
+* 김동현
+* Linux
+
+## 실습과 그림으로 배우는 리눅스 구조
+* 다케우치 사토루 / 신준희 역
+* Linux
+
+## Yocto 프로젝트를 활용한 임베디드 리눅스 개발
+* Otavio Salvador / 배창혁 역
+* Embedded Linux Yocto
+
 ## GoF의 디자인 패턴
 * Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 * DesignPattern
+
+## 데이터 중심 애플리케이션 설계
+* Martin Kleppmann / 김영준, 이도경, 정재부 역
+* Data, DistributedSystem
+
+## 모던 C++로 배우는 동시성 프로그래밍
+* Rainer Grimm / 배장열 역
+* Concurrency C++
+
+## 7가지 동시성 모델
+* Paul Butcher / 임백준 역
+* Concurrency
+
+## Introduction to Algorithms
+* Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein / 문병로 역
+* Algorithm
+
+## 리팩터링
+* Martin Fowler / 남기혁, 개앞맵시 역
+* Refactoring
+
+## 클린 코드
+* Robert C. Martin / 이해영, 박재호 역
+* Agile
