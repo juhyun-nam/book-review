@@ -10,20 +10,21 @@
 ## 책 제목
 * 저자, 역자
 * 키워드
+
 서평
 ```
 
 # 책
 
-## CppCoreGuidelines(https://github.com/isocpp/CppCoreGuidelines)
+## CppCoreGuidelines (https://github.com/isocpp/CppCoreGuidelines)
 * Bjarne Stroustrup, Herb Sutter
 * C++
 
-## Elements of Programming(http://elementsofprogramming.com)
+## Elements of Programming (http://elementsofprogramming.com)
 * Alexander Stepanov, Paul McJones
 * programming
 
-## More C++ Idioms(https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
+## More C++ Idioms (https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 * Sutambe, Community driven
 * C++
 
@@ -35,9 +36,14 @@
 * W. Stevens, Richard, A. Rago, Stephen / 류광 역
 * Unix
 
+unix 시스템에서 사용하는 개념에 대한 설명과 api 사용 방법들을 서술. 매뉴얼 같은 책.
+
+
 ## 모두를 위한 리눅스 프로그래밍
 * 아오키 미네로 / 이동규 역
 * Linux
+
+리눅스 환경의 개발자를 위한 책. 초보자를 위한 자세한 설명과 ls, cat과 같은 명령어를 만들어 보면서 api를 사용해보는 예제가 좋다.
 
 ## 디버깅을 통해 배우는 리눅스 커널의 구조와 원리
 * 김동현
