@@ -23,6 +23,10 @@
 * Alexander Stepanov, Paul McJones
 * programming
 
+## More C++ Idioms(https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
+* Sutambe, Community driven
+* C++
+
 ## Optimized C++
 * Kurt Guntheroth
 * C++
