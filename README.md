@@ -32,6 +32,10 @@
 * Kurt Guntheroth
 * C++
 
+## Functional Programmin in C++
+* Ivan Cukic / 김정갑 역
+* C++ FunctionalProgramming
+
 ## UNIX 고급 프로그래밍
 * W. Stevens, Richard, A. Rago, Stephen / 류광 역
 * Unix
@@ -56,6 +60,10 @@ unix 시스템에서 사용하는 개념에 대한 설명과 api 사용 방법�
 ## Yocto 프로젝트를 활용한 임베디드 리눅스 개발
 * Otavio Salvador / 배창혁 역
 * Embedded Linux Yocto
+
+## 임베디드 리눅스 프로그래밍 완전정복
+* Chris Simmonds / 김기주 역
+* Enbedded Linux
 
 ## GoF의 디자인 패턴
 * Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
@@ -84,3 +92,23 @@ unix 시스템에서 사용하는 개념에 대한 설명과 api 사용 방법�
 ## 클린 코드
 * Robert C. Martin / 이해영, 박재호 역
 * Agile
+
+## Do it!자료구조와 함께 배우는 알고리즘 입문 C 언어 편
+* 보요 시바타 / 강민 역
+* Algorithm
+
+## 다이내믹 프로그래밍 완전 정복
+* Meenakshi, Kamal Rawat / 박상은 역
+* Algorithm
+
+## 국가공인 리눅스마스터 1급
+* 박성수, 강기봉, 정우영
+* Linux
+
+## UML을 활용한 객체지향 분석 설계
+* Grady Booch, Robert A. Maksimchuk, Michael W. Engle, Dr. Bobbi Young, Jim Conallen, Kelli A. Houston / 임춘봉, 박현철, 박경민 역
+* OOP, UML
+
+## UML Distilled
+* Martin Fowler / 이인섭 역
+* UML
