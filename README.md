@@ -112,3 +112,163 @@ unix 시스템에서 사용하는 개념에 대한 설명과 api 사용 방법�
 ## UML Distilled
 * Martin Fowler / 이인섭 역
 * UML
+
+## 윤성우의 열혈 C++ 프로그래밍
+* 윤성우
+* C++
+
+## Operating System Concepts
+* Abraham Silberschatz,Greg Gagne,Peter B. Galvin
+* OS
+
+## 쉽게 배우는 데이터 통신과 컴퓨터 네트워크
+* 박기현
+* Network
+
+## 리눅스 커맨드라인 완벽 입문서
+* WILLIAM E JR SHOTTS / 이종우, 정영신 역
+* Linux
+
+## C++ 병렬.분산 프로그래밍
+* Cameron Hughes, Tracey Hughes / 류광 역
+* C++, Parallel, DistributedSystem
+
+## CODE Complete
+* Steve McConnell / 서우석 역
+* Software Development
+
+## Effective C++
+* Scott Meyers / 곽용재 역
+* C++
+
+## Fundamental C++ 프로그래밍 원리
+* 김화수
+* C++
+
+## 모던 C++로 배우는 함수형 프로그래밍
+* Wisnu Anggoro / 김현욱
+* C++ FunctionalProgramming
+
+## Effective Modern C++
+* Scott Meyers / 류광 역
+* C++
+
+## C++ API 디자인
+* Dr. Martin Reddy / 천호민
+* C++
+
+## 뇌를 자극하는 C++ STL
+* 공동환
+* C++
+
+## C++ Templates
+* David Vandevoorde, Nicolai M. Josuttis, Douglas Gregory / 한정애 역
+* C++
+
+## C++ 멀티스레딩 정복하기
+* Maya Posch / 김점갑 역
+* C++ Multithread
+
+## 알고리즘 문제 해결 전략
+* 구종만
+* Algorithm
+
+## 객체지향의 사실과 오해
+* 조영호
+* OOP
+
+## 컴파일러 구조와 원리
+* 아오키 미네로 / 이영희 역
+* Compiler
+
+## 모던 C++ 디자인 패턴
+* Dmitri Nesteruk / 권오인 역
+* C++ DesignPattern
+
+## 자바스크립트 완벽 가이드
+* David Flanagan / 구경택, 박경욱, 변치훈 역
+* Javascript
+
+## Do it! 자바스크립트 + 제이쿼리 입문
+* 정인용
+* Javascript
+
+## Do it! 자료구조와 함께 배우는 알고리즘 입문 자바 편
+* 보요 시바타 / 강민 역
+* Algorithm Java DataStructure
+
+## Do it! HTML5+CSS3 웹 표준의 정석
+* 고경희
+* HTML CSS
+
+## Java의 정석
+* 남궁성
+* Java
+
+## You Don't Know JS (2권)
+* Kyle Simson / 이일웅 역
+* Javascript
+
+## 러닝 자바스크립트
+* Ethan Brown / 한성용 역
+* Javascript
+
+## Google Apps Script
+* James Ferreira
+* GoogleApps
+
+## 리액트를 다루는 기술
+* 김민준
+* React
+
+## 빠른 모바일 앱 개발을 위한 React Native
+* Bonnie Eisenman / 이종은 역
+* ReactNative
+
+## 더 괜찮은 웹 개발자가 되기 위한 리액트 스타일 가이드
+* 이시바시 케이타 / 구멍가게 코딩단, 안동현 역
+* React
+
+## React 16 Tooling
+* Adam Boduch / 이승준 역
+* React
+
+## 러닝 리액트
+* Alex Banks, Eve Porcello / 오현석 역
+* React
+
+## 이펙티브 자바
+* Joshua Bloch / 개앞맵시 역
+* Java
+
+## 자바로 배우는 핵심 자료구조와 알고리즘
+* Allen B. Downey / 유동환 역
+* Java DataStructure Algorithm
+
+## 자바 최적화
+* James Gough, Ben Evans, Chris Newland / 이일웅 역
+* Java
+
+## Vue.js 코딩 동작소
+* Erik Hanchett, Benjamin Listwon / 정용석 역
+* Vue
+
+## 프로그래밍 생초보의 PHP, MySQL, Bootstrap을 이용한 퀴즈 홈페이지 코딩 노트
+* 성상우
+* Web
+
+## HTML & CSS
+* Jon Duckett / 홍영표 역
+* HTML CSS
+
+## MongoDB in Action
+* Kyle Banker, Peter Bakkum, Shaun Verch, Doug Garrett, Tim Hawkins / 김인범 역
+* MongoDB
+
+## Node.js로 프로그래밍 시작하기
+* Jonathan Wexler / 김성준 역
+* Node
+
+## 타입스크립트 마스터 2/e
+* Nathan Rozentals / 김유성 역
+* Typescript
