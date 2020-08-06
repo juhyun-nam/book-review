@@ -272,3 +272,55 @@ unix 시스템에서 사용하는 개념에 대한 설명과 api 사용 방법�
 ## 타입스크립트 마스터 2/e
 * Nathan Rozentals / 김유성 역
 * Typescript
+
+## 이것이 리눅스다
+* 우재남
+* Linux
+
+## CSS: The Definitive Guide
+* Eric A. Meyer
+* CSS
+
+## Learning Shell Scripting with Zsh
+* Gaston Festari
+* Shell Zsh
+
+## sed and awk Pocket Reference
+* Arnold Robbins
+* sed awk
+
+## 누워서 읽는 알고리즘
+* 임백준
+* Algorithm
+
+## 오라클 SQL과 PL/SQL을 다루는 기술
+* 홍형경
+* Oracle SQL
+
+## 유닉스 리눅스 명령어 사전
+* 우종경, 박종오
+* Linux
+
+## 모던 C++ 입문
+* Peter Gottschling / 옥찬호
+* C++
+
+## 리눅스 커널 내부 구조
+* 백승재, 최종무
+* Linux kernel
+
+## 처음시작하는 파이썬
+* Lubanovic, Bill / 최길우
+* Python
+
+## Boost.Asio를 이용한 네트워크 프로그래밍
+* 최흥배
+* Boost asio
+
+## Cmake Cookbook
+* Bast, Radovan, Remigio, Roberto Di
+* CMake
+
+## Thinking About : CPU 최적화 프로그래밍 노트(기초편)
+* 김안석
+* CPU
