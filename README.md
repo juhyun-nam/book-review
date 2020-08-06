@@ -324,3 +324,15 @@ unix 시스템에서 사용하는 개념에 대한 설명과 api 사용 방법�
 ## Thinking About : CPU 최적화 프로그래밍 노트(기초편)
 * 김안석
 * CPU
+
+## 모두의 네트워크
+* 미즈구치 카츠야 / 이승룡 역
+* Network
+
+## 최신 서버 가이드북
+Masahiro Kihashi / 이영란 역
+* Server
+
+## IT EXPERT 리버스 엔지니어링 1권 파일 구조 편
+* 이호동
+* ReverseEngineering
