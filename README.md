@@ -363,3 +363,7 @@ Masahiro Kihashi / 이영란 역
 ## C++ Primer
 * Stanley B. Lippman, Josée Lajoie, Barbara E. Moo / 이상주 역
 * C++
+
+## 웹 앱 API 개발을 위한 GraphQL
+* Eve Porcello, Alex Banks / 배영 역
+* GraphQL
