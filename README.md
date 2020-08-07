@@ -348,3 +348,7 @@ Masahiro Kihashi / 이영란 역
 ## Pro Git
 * Scott Chacon, Ben Straub / 박창우 역
 * Git
+
+## 밑바닥부터 시작하는 데이터 과학
+* Joel Grus / 김한결, 하성주 역
+* DataScience
