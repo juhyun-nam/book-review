@@ -28,6 +28,10 @@
 * Sutambe, Community driven
 * C++
 
+## The Unified Modeling Language Reference Manual(http://www.temida.si/~bojan/IPIT_2014/literatura/UML_Reference_Manual.pdf)
+* James Rumbaugh, Ivar Jacobson, Grady Booch
+* UML
+
 ## Optimized C++
 * Kurt Guntheroth
 * C++
