@@ -371,3 +371,7 @@ Masahiro Kihashi / 이영란 역
 ## 개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴
 * 최범균
 * OOP DesignPattern
+
+## 컴퓨터 구조 및 설계 ARM
+* David A. Patterson, John L. Hennessy / 하순회 역
+* Comuter
