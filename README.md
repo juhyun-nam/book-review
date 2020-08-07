@@ -336,3 +336,15 @@ Masahiro Kihashi / 이영란 역
 ## IT EXPERT 리버스 엔지니어링 1권 파일 구조 편
 * 이호동
 * ReverseEngineering
+
+## 이것이 C언어다
+* 서현우
+* C
+
+## 이것이 C++이다
+* 최호성
+* C++
+
+## Pro Git
+* Scott Chacon, Ben Straub / 박창우 역
+* Git
