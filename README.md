@@ -359,3 +359,7 @@ Masahiro Kihashi / 이영란 역
 ## 밑바닥부터 시작하는 데이터 과학
 * Joel Grus / 김한결, 하성주 역
 * DataScience
+
+## C++ Primer
+* Stanley B. Lippman, Josée Lajoie, Barbara E. Moo / 이상주 역
+* C++
