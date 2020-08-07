@@ -375,3 +375,7 @@ Masahiro Kihashi / 이영란 역
 ## 컴퓨터 구조 및 설계 ARM
 * David A. Patterson, John L. Hennessy / 하순회 역
 * Comuter
+
+## Head First Python
+* Paul Barry / 우정은 역
+* Python
