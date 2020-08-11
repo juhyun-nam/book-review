@@ -383,3 +383,7 @@ Masahiro Kihashi / 이영란 역
 ## Head First Python
 * Paul Barry / 우정은 역
 * Python
+
+## 소프트웨어 장인
+* Snadro Mancuso / 권오인 역
+* Software
