@@ -387,3 +387,11 @@ Masahiro Kihashi / 이영란 역
 ## 소프트웨어 장인
 * Snadro Mancuso / 권오인 역
 * Software
+
+## 시작하세요!도커/쿠버네티스
+* 용찬호
+* Docker Kubernetes
+
+## 도메인 주도 설계
+* Eric Evans / 이대엽 역
+* Domain Design
