@@ -395,3 +395,11 @@ Masahiro Kihashi / 이영란 역
 ## 도메인 주도 설계
 * Eric Evans / 이대엽 역
 * Domain Design
+
+## 카프카, 데이터 플랫폼의 최강자
+* 공용준, 고승범
+* Kafka
+
+## 러닝 파이썬 (상, 하)
+* Mark Lutz / 조인중, 강성용 역
+* Python
