@@ -403,3 +403,51 @@ Masahiro Kihashi / 이영란 역
 ## 러닝 파이썬 (상, 하)
 * Mark Lutz / 조인중, 강성용 역
 * Python
+
+## 주키퍼 ZooKeeper
+* Flavio Junqueira, Benjamin Reed / 한연수, 박용준 역
+* Zookeeper
+
+## 머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로
+* Sebastian Raschka, Vahid Mirjalili / 박해선 역
+* Machine Learning, Python, Scikit-Learn, TensorFlow
+
+## 핸즈온 머신러닝
+* Aurelien Geron / 박해선 역
+* Machine Learning, Scikit-Learn, Keras, TensorFlow
+
+## 유니티 교과서
+* 기타무라 마나미 / 김은철, 유세라 역
+* Unity
+
+## 레트로의 유니티 게임 프로그래밍 에센스
+* 이제민
+* Unity
+
+## 버려지는 디자인 통과되는 디자인
+* 신승희
+* Design, Web
+
+## 처음 배우는 플러터
+* 유동환
+* Flutter
+
+## gRPC 시작에서 운영까지
+* Kasun Indrasiri, Danesh Kuruppu / 한성곤 역
+* gRPC
+
+## 초보를 위한 젠킨스 활용 가이드
+* Nikhil Pathania / 이상욱 역
+* Jenkins
+
+## 매니징 쿠버네티스
+* Brendan Burns, Craig Tracey / 오성근
+* Kubernetes
+
+## 쿠버네티스 기초 다지기
+* Jonathan Baier, Jessey White / 박규태 역
+* Kubernetes
+
+## Professional CMake
+* Craig Scott
+* CMake
