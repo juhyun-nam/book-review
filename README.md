@@ -1,8 +1,8 @@
 # books
-읽었던 IT 서적 한 줄 서평
+읽었던 IT 서적들
 
-* 순서 의미 없음.
-* 개인적인 의견.
+* 리스트 정렬 노력 중
+
 
 # 양식
 
@@ -451,3 +451,37 @@ Masahiro Kihashi / 이영란 역
 ## Professional CMake
 * Craig Scott
 * CMake
+
+## 클린 아키텍처
+* Robert C. Martin / 송준이 역
+* Architecture
+
+## 도메인 주도 설계 철저 입문
+* 나루세 마사노부 / 심효섭 역
+* DDD
+
+## 엔터프라이즈 애플리케이션 아키텍처 패턴
+* Martin Fowler / 최민석 역
+* Architecture
+
+## 오브젝트
+* 조영호
+* Object OOP
+
+## 마이크로서비스 패턴
+* Chris Richardson / 이일웅 역
+* Microservice
+
+## 마이크로서비스 도입, 이렇게 한다
+* Sam Newman / 박재호 역
+* Microservice
+
+## 심플 소프트웨어
+*  Max Kanat-Alexander / 이미령 역
+*  Development
+
+## 테스트 주도 개발
+* Kent Beck / 김창준, 감규영 역
+* Test Development
+
+## 
