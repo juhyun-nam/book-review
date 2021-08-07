@@ -484,4 +484,70 @@ Masahiro Kihashi / 이영란 역
 * Kent Beck / 김창준, 감규영 역
 * Test Development
 
-## 
+## 테스트 주도 개발로 배우는 객체 지향 설계와 실천
+* Steve Freeman, Nat Pryce / 이대엽 역
+* Test OOP
+
+## Go 마스터하기
+* Mihalis Tsoukalos / 남기혁 역
+* go
+
+## 혼자 공부하는 머신러닝 + 딥러닝
+* 박해선
+* MachineLearning DeepLearning
+
+## 프로그래밍 수련법
+* Brian W. Kernighan, Rob Pike / 김정민, 장혜식, 신성국 역
+* Programming
+
+## 읽기 좋은 코드가 좋은 코드다
+* Dustin Boswell / 임백준 역
+* Programming
+
+## 파워 오브 데이터베이스
+* Michael J. Hernandez / 송현호, 황규용 역
+* Database
+
+## OAuth 2 in Action
+* Justin Richer, Antonio Sanso / 윤우빈 역
+* OAuth
+
+## 개발자를 위한 글쓰기 가이드
+* 유영경
+* Writing
+
+## 쿠버네티스 패턴
+* Bilgin Ibryam, Roland Huß / 안승규, 서한배 역
+* Kubernetes
+
+## 프로그래밍 언어론
+* Robert W. Sebesta / 하상호, 유원희 역
+* Programming
+
+## 러스트 프로그래밍 공식 가이드
+* Steve Klabnik, Carol Nichols / 장현희
+* Rust
+
+## 디스커버리 Go 언어
+* 염재현
+* Go
+
+## 가장 쉬운 하스켈 책
+* Miran Lipovac"a / 황반석 역
+* Haskel
+
+## Go 인 액션
+* William Kennedy, Brian Ketelsen, Erik St. Martin / 장현희
+* Go
+
+## Django(장고)로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍
+* 배프
+* Python Django
+
+## 구글 클라우드 플랫폼 인 액션
+* J. J. Geewax / 홍승민, 조민현 역
+* Cloud
+
+## 쿠버네티스 인 액션
+* Marko Lukša / 강인호, 황주필, 이원기, 임찬식
+* Kubernetes
